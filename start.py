@@ -1,6 +1,5 @@
 from machine import WashingMachine
-from threading import Thread
-import sys, time
+import sys
 
 class StartandStop:
     def __init__(self):

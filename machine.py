@@ -20,7 +20,7 @@ class WashingMachine:
         self.run()
 
     def spin(self):
-        self.run(self.selected)
+        self.run()
     
     def run(self):
         self.check_alarm()
