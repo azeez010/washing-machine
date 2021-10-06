@@ -1,0 +1,1 @@
+MACHINE_SEC = 60
